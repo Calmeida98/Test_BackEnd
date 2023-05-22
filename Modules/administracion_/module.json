@@ -1,0 +1,14 @@
+{
+    "name": "administracion_",
+    "alias": "administracion_",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\administracion_\\Providers\\administracion_ServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
+
